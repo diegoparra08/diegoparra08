@@ -1,12 +1,12 @@
 # **Hi! This is Diego Parra** 👋
 diegoparra08
 
-**Who am I? **
+## **Who am I? **
 
 I am a **Full Stack Developer**, and I thoroughly enjoy working on projects that span both the server-side and the user experience. 
 I have always had an affinity for technology, and ever since I got into programming, I've been finding it more and more fascinating with every new thing I learn 😊
 
-##**What Do I do? **
+## **What Do I do? **
 
 I am currently working on projects that help me reinforce my knowledge and learn new technologies, and I am part of a team that is building an app for a company.... This has been a big challenge for me and my teammates, but it has taught us so much 👌
 
