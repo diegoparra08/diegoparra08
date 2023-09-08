@@ -1,7 +1,7 @@
-#**Hi! This is Diego Parra** 👋
+**Hi! This is Diego Parra** 👋
 diegoparra08
 
-##**Who am I? **
+**Who am I? **
 
 I am a **Full Stack Developer**, and I thoroughly enjoy working on projects that span both the server-side and the user experience. 
 I have always had an affinity for technology, and ever since I got into programming, I've been finding it more and more fascinating with every new thing I learn 😊
@@ -28,6 +28,7 @@ I am currently learning React Native so I can also develop mobile apps.
 ##**Contact Me**
 
 [LinkedIn](https://www.linkedin.com/in/diego-alejandro-parra-292300273/)
+
 email: diegoalparra08@gmail.com
 
 
@@ -60,4 +61,5 @@ Actualmente, estoy aprendiendo React Native para poder desarrollar aplicaciones 
 
 ##**Contactame**
 [LinkedIn](https://www.linkedin.com/in/diego-alejandro-parra-292300273/)
+
 email: diegoalparra08@gmail.com
