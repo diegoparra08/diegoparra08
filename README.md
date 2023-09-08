@@ -33,7 +33,7 @@ email: diegoalparra08@gmail.com
 
 
 
-**Hola! Soy Diego Parra **👋
+# __Hola! Soy Diego Parra__👋
 
 
 ## __¿Quién soy?__
