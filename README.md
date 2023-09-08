@@ -1,4 +1,4 @@
-**Hi! This is Diego Parra** 👋
+# **Hi! This is Diego Parra** 👋
 diegoparra08
 
 **Who am I? **
@@ -14,7 +14,7 @@ I am currently working on projects that help me reinforce my knowledge and learn
 
 I want to become a skilled programmer who is capable of solving real-world problems with code. I aspire to learn more and continually enhance the quality of my work with each project I undertake. I am seeking a team where I can not only grow personally but also contribute to the growth of others. So far, I am thoroughly enjoying this journey and am looking forward to having fun while creating awesome things 😎
 
-##**What Tecnoogies do I use? **
+**What Tecnoogies do I use? **
 
 Thanks to Henry Bootcamp, I've learned technologies to build projects from end to end. Here they are:
 
@@ -25,7 +25,7 @@ Thanks to Henry Bootcamp, I've learned technologies to build projects from end t
 
 I am currently learning React Native so I can also develop mobile apps.
 
-##**Contact Me**
+**Contact Me**
 
 [LinkedIn](https://www.linkedin.com/in/diego-alejandro-parra-292300273/)
 
@@ -33,14 +33,14 @@ email: diegoalparra08@gmail.com
 
 
 
-#**Hola! Soy Diego Parra **👋
+**Hola! Soy Diego Parra **👋
 
 
-##**¿Quién soy?**
+**¿Quién soy?**
 
 Soy un **Programador Full Stack** y disfruto trabajar en todo tipo de proyectos, desde los que son del lado del servidor hasta los que son del lado del cliente. Siempre he tenido un gusto por la tecnología y desde que entré en el mundo de la programación, la encuentro más interesante con cada cosa nueva que aprendo 😊
 
-##**¿Qué hago?**
+**¿Qué hago?**
 
 Actualmente, estoy trabajando en proyectos que me permiten fortalecer mis conocimientos actuales y aprender nuevas tecnologías. Formo parte de un equipo que está trabajando en la creación de una aplicación para una compañía... Esto ha sido un gran desafío para mí y mis compañeros de equipo, pero nos ha enseñado mucho 👌
 
