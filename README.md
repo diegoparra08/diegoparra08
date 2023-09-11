@@ -8,7 +8,7 @@ I have always had an affinity for technology, and ever since I got into programm
 
 ## __What Do I do?__
 
-I am currently working on projects that help me reinforce my knowledge and learn new technologies, and I am part of a team that is building an app for a company.... This has been a big challenge for me and my teammates, but it has taught us so much 👌
+I am currently working on projects that help me reinforce my knowledge and learn new technologies, and I am part of a team that is building a web page for a Museum in Argentina This has been a big challenge for me and my teammates, but it has taught us so much 👌
 
 ## __What Am I Looking For?__
 
@@ -42,7 +42,7 @@ Soy un **Programador Full Stack** y disfruto trabajar en todo tipo de proyectos,
 
 ## __¿Qué hago?__
 
-Actualmente, estoy trabajando en proyectos que me permiten fortalecer mis conocimientos actuales y aprender nuevas tecnologías. Formo parte de un equipo que está trabajando en la creación de una aplicación para una compañía... Esto ha sido un gran desafío para mí y mis compañeros de equipo, pero nos ha enseñado mucho 👌
+Actualmente, estoy trabajando en proyectos que me permiten fortalecer mis conocimientos actuales y aprender nuevas tecnologías. Formo parte de un equipo que está trabajando en la creación de la apgina web oficial de un Museo importante en Argentina. Esto ha sido un gran desafío para mí y mis compañeros de equipo, pero nos ha enseñado mucho 👌
 
 ## __¿Qué estoy buscando?__
 
